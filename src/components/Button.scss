@@ -1,0 +1,15 @@
+$blue: #228be6;
+
+.Button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    outline: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+    height: 2.25rem;
+}
